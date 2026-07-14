@@ -1,0 +1,27 @@
+[
+  {
+    "Files": [
+      {
+        "App": "app.apk",
+        "PhotoApp": "AppPhoto.png"
+      },
+      {
+        "ViewPhoto": "AppPhoto.png"
+      }
+    ],
+    "InfoApp": [
+      {
+        "Name": "Universo Caótico",
+        "Package": "com.universocaotico",
+        "SHA1": "SHA1DOAPP",
+        "Final": "store"
+      }
+    ],
+    "AppAuth": [
+      {
+        "Store": true,
+        "AppStore": "com.pacoteAAARULESYSTEMSTORE"
+      }
+    ]
+  }
+]
